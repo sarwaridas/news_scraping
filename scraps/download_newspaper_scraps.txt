@@ -1,0 +1,9 @@
+download_newspaper_scraps.txt
+
+# urls = []
+# with open(sys.argv[1], 'r') as csvfile:
+# 	reader = csv.reader(csvfile, dialect=dialect)
+# 	if with_header:
+# 		next(reader)
+# 	for row in reader:
+# 		urls.append(row[-1])

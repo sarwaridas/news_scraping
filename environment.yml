@@ -1,0 +1,10 @@
+name: searches
+dependencies:
+- python>=3.7
+- anaconda::beautifulsoup4
+- anaconda::requests
+- conda-forge::pypdf2
+- conda-forge::selenium
+- pip
+- pip:
+  - html2text
